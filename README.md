@@ -253,8 +253,6 @@ Features:
 
 ### 💻 **Web Development & Frameworks**
 - **[Angular Development](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
-- **[Modern Web Applications](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
-- **[Frontend Best Practices](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
 
 ### 💼 **Professional Experience**
 - **[Centific - Software Development Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Centific)**
