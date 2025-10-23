@@ -10,17 +10,44 @@
   </a>
 </p>
 
+**Quick Navigation:** [About Me](#-about-me) • [Tech Stack](#-tech-stack--arsenal) • [Projects](#-featured-projects-portfolio) • [Certifications](#-certifications--achievements) • [GitHub Stats](#-github-analytics--statistics) • [Connect](#-lets-connect--collaborate)
+
 </div>
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**  
-🧪 **Exploring the intersection of AI, Agentic Systems, and Quantum Security**  
-🔭 **Currently working on:** Metaverse VR Framework & LLM Fine-Tuning with LoRA  
-🌱 **Learning:** LangChain, TensorFlow, Real-Time 3D Simulation, Generative Agents  
-⚡ **Passionate about:** Building Intelligent Systems, Open Source, Ethical AI  
+<table>
+<tr>
+<td>
+
+**🎓 Education & Background**  
+Integrated M.Tech in Software Engineering @ VIT Vellore
+
+**🔬 Research Interests**  
+Exploring the intersection of AI, Agentic Systems, and Quantum Security
+
+**🚀 Current Projects**  
+• Metaverse VR Framework  
+• LLM Fine-Tuning with LoRA  
+• AI-Powered RAG Systems
+
+</td>
+<td>
+
+**📚 Currently Learning**  
+• LangChain for Agentic Workflows  
+• TensorFlow & Deep Learning  
+• Real-Time 3D Simulation  
+• Generative AI Agents
+
+**💡 Passionate About**  
+Building Intelligent Systems | Open Source | Ethical AI | Human-Centered Design
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -275,51 +302,6 @@ Features:
 
 ---
 
-## 📊 GitHub Analytics & Statistics  
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkonduru&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhanushkonduru&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Metrics
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhanushkonduru&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/dhanushkonduru?style=for-the-badge&logo=github&color=blue)](https://github.com/dhanushkonduru)
-[![GitHub Stars](https://img.shields.io/github/stars/dhanushkonduru?style=for-the-badge&logo=github&color=yellow)](https://github.com/dhanushkonduru)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
-
----
-
 ## 🌐 Metaverse Vision & Future Roadmap  
 
 <div align="center">
@@ -375,6 +357,49 @@ graph LR
 
 ---
 
+## 📊 GitHub Analytics & Statistics  
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+### 📈 **My Coding Journey**
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkonduru&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhanushkonduru&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Metrics
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushkonduru&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/dhanushkonduru?style=for-the-badge&logo=github&color=blue)](https://github.com/dhanushkonduru)
+[![GitHub Stars](https://img.shields.io/github/stars/dhanushkonduru?style=for-the-badge&logo=github&color=yellow)](https://github.com/dhanushkonduru)
+
+</div>
+
+---
+
 ## 📢 Let's Connect & Collaborate!  
 
 <div align="center">
@@ -418,5 +443,9 @@ graph LR
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
 ![Built with AI](https://img.shields.io/badge/Built%20with-🤖%20AI-blueviolet?style=for-the-badge)
+
+<br>
+
+**[⬆ Back to Top](#hey-there--im-dhanush-konduru)**
 
 </div>
