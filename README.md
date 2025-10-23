@@ -30,53 +30,21 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 ## 🧠 About Me  
 
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-const dhanush = {
-    location: "🇮🇳 India",
-    education: "VIT Vellore",
-    currentFocus: [
-        "Agentic AI Systems",
-        "Metaverse VR Framework",
-        "LLM Fine-Tuning with LoRA"
-    ],
-    passions: [
-        "Building Intelligent Agents",
-        "Quantum Cryptography",
-        "Immersive 3D Experiences"
-    ],
-    funFact: "I dream in Python! 🐍"
-};
-```
-
-</td>
-<td width="50%">
+<div align="center">
 
 ### 🎯 **Current Mission**
-- 🔬 Exploring **LLMs + Agentic AI + Quantum Security**
-- 🌌 Building **AI-driven Metaverse frameworks**
-- 🚀 Working on **Metaverse VR** & **LoRA Fine-Tuning**
-- 🌱 Mastering **LangChain, TensorFlow, 3D Simulation**
-- ⚡ Creating **secure, scalable, intelligent apps**
+🔬 Exploring **LLMs + Agentic AI + Quantum Security**  
+🌌 Building **AI-driven Metaverse frameworks**  
+🚀 Working on **Metaverse VR** & **LoRA Fine-Tuning**  
+🌱 Mastering **LangChain, TensorFlow, 3D Simulation**  
+⚡ Creating **secure, scalable, intelligent apps**
 
 ### 🏆 **Quick Stats**
-- 💡 **10+** AI/ML Projects
-- 🎓 **6+** Premium Certifications
-- 🌟 **Active** Open Source Contributor
-- 🔥 **Always** Learning & Building
+💡 **10+** AI/ML Projects | 🎓 **6+** Premium Certifications | 🌟 **Active** Open Source Contributor | 🔥 **Always** Learning & Building
 
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+</div>
 
 ---
 
