@@ -221,25 +221,51 @@ Features:
 
 <div align="center">
 
+### **Dhanush Konduru**
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🎓 **Machine Learning & AI**
 
-🏅 **[Machine Learning Specialization](https://github.com/dhanushkonduru/Certeficates)** – Andrew Ng (Coursera)  
-🏅 **[Supervised ML: Regression & Classification](https://github.com/dhanushkonduru/Certeficates)** – Coursera  
-🏅 **[Fundamentals of Deep Learning](https://github.com/dhanushkonduru/Certeficates)** – NVIDIA  
-🏅 **[NLP Foundations](https://github.com/dhanushkonduru/Certeficates)** – Verified Certification  
-🏅 **[Prompt Engineering for ChatGPT](https://github.com/dhanushkonduru/Certeficates)** – Vanderbilt University  
-🏅 **[Linear Algebra for Computer Science and Machine Learning](https://github.com/dhanushkonduru/Certeficates)** – Mathematics Foundation
+| Certification | Issuer | Badge |
+|--------------|--------|-------|
+| **[Machine Learning Specialization](https://github.com/dhanushkonduru/Certeficates)** | Andrew Ng (Coursera) | 🏅⭐⭐⭐⭐⭐ |
+| **[Supervised ML: Regression & Classification](https://github.com/dhanushkonduru/Certeficates)** | Coursera | 🏅⭐⭐⭐⭐⭐ |
+| **[Fundamentals of Deep Learning](https://github.com/dhanushkonduru/Certeficates)** | NVIDIA | 🏅⭐⭐⭐⭐ |
+| **[NLP Foundations](https://github.com/dhanushkonduru/Certeficates)** | Verified Certification | 🏅⭐⭐⭐⭐ |
+| **[Prompt Engineering for ChatGPT](https://github.com/dhanushkonduru/Certeficates)** | Vanderbilt University | 🏅⭐⭐⭐⭐ |
+| **[Linear Algebra for CS & ML](https://github.com/dhanushkonduru/Certeficates)** | Mathematics Foundation | 🏅⭐⭐⭐⭐ |
+
+</td>
+<td width="50%">
 
 ### ☁️ **Cloud & Development**
 
-🏅 **[Google Cloud Digital Leader Training](https://github.com/dhanushkonduru/Certeficates)** – Google Cloud  
-🏅 **[GitHub Foundations Certification](https://github.com/dhanushkonduru/Certeficates)** – GitHub
+| Certification | Issuer | Badge |
+|--------------|--------|-------|
+| **[Google Cloud Digital Leader](https://github.com/dhanushkonduru/Certeficates)** | Google Cloud | 🏅⭐⭐⭐⭐ |
+| **[GitHub Foundations](https://github.com/dhanushkonduru/Certeficates)** | GitHub | 🏅⭐⭐⭐⭐ |
 
 ### 🥇 **Competitions & Honors**
 
-🏆 **[Hackathon Gen-AI](https://github.com/dhanushkonduru/Certeficates)** – Certificate of Excellence
+| Achievement | Details | Badge |
+|------------|---------|-------|
+| **[Hackathon Gen-AI](https://github.com/dhanushkonduru/Certeficates)** | Certificate of Excellence | 🏆⭐⭐⭐⭐⭐ |
 
----
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Certification Count](https://img.shields.io/badge/Total_Certifications-9+-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Specializations](https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Cloud%20%7C%20Development-4ECDC4?style=for-the-badge)
 
 [![View All Certificates](https://img.shields.io/badge/📂_View_All_Certificates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkonduru/Certeficates)
 
