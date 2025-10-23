@@ -407,20 +407,6 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%"/>
 
-### ⚛️ *Crafted with Code, Curiosity, and Quantum Precision* ⚛️
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b3f-4652-a9f8-3c3f5cfd2c0e.gif" width="400">
-
-**✨ "The future belongs to those who believe in the beauty of their dreams and the power of their code." ✨**
-
-<br>
-
-![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
-![Built with AI](https://img.shields.io/badge/Built%20with-🤖%20AI-blueviolet?style=for-the-badge)
-
-<br>
-
 **[⬆ Back to Top](#hey-there--im-dhanush-konduru)**
 
 </div>
