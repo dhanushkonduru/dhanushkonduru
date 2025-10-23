@@ -271,7 +271,7 @@ Features:
 
 ![Total Certifications](https://img.shields.io/badge/Total_Certifications-7+-FF6B6B?style=flat-square&logo=google-scholar&logoColor=white)
 ![Specializations](https://img.shields.io/badge/AI%2FML-Deep_Learning-4ECDC4?style=flat-square)
-![Development](https://img.shields.io/badge/Web_Dev-React-DD0031?Angular%20%7C%20style=flat-square)
+![Development](https://img.shields.io/badge/Web_Dev-React-DD0031Angular%20%7C%20?style=flat-square)
 
 </div>
 
