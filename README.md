@@ -2,7 +2,11 @@
 
 # Hey there 👋, I'm Dhanush Konduru
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Agentic+AI+Researcher+%F0%9F%A7%A0;Metaverse+Innovator+%F0%9F%8C%8C;Quantum+Security+Enthusiast+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Agentic+AI+Researcher+%F0%9F%A7%A0;Metaverse+Innovator+%F0%9F%8C%8C;Quantum+Security+Enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhanushkonduru&color=blueviolet&style=flat-square)
 [![GitHub Followers](https://img.shields.io/github/followers/dhanushkonduru?style=flat-square&logo=github)](https://github.com/dhanushkonduru)
