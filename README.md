@@ -1,32 +1,10 @@
-<div align="center">
+# Hey there 👋, I'm Dhanush Konduru
 
-# 🌟 Welcome to My Digital Universe! 🌟
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Agentic+AI+Researcher+%F0%9F%A7%A0;Metaverse+Innovator+%F0%9F%8C%8C;Quantum+Security+Enthusiast+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhanush%20Konduru&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI%2FML+Engineer+%F0%9F%A4%96;Agentic+AI+Researcher+%F0%9F%A7%A0;Metaverse+Innovator+%F0%9F%8C%8C;Quantum+Security+Enthusiast+%E2%9A%9B%EF%B8%8F)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI%2FML-Expert-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🧠_Agentic_AI-Researcher-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-Specialist-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚛️_Quantum_Crypto-Enthusiast-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐_Metaverse-Innovator-orange?style=for-the-badge" />
-</p>
-
-### 🚀 *Transforming Data, Vision, and Intelligence into Revolutionary Innovation*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b3f-4652-a9f8-3c3f5cfd2c0e.gif" width="500">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhanushkonduru&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/dhanushkonduru?style=for-the-badge&logo=github&color=blue)](https://github.com/dhanushkonduru)
-[![GitHub Stars](https://img.shields.io/github/stars/dhanushkonduru?style=for-the-badge&logo=github&color=yellow)](https://github.com/dhanushkonduru)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushkonduru&color=blueviolet&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/dhanushkonduru?style=flat-square&logo=github)](https://github.com/dhanushkonduru)
+[![GitHub Stars](https://img.shields.io/github/stars/dhanushkonduru?style=flat-square&logo=github)](https://github.com/dhanushkonduru)
 
 ---
 
