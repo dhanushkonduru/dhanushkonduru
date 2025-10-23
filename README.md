@@ -15,7 +15,6 @@
 🔭 **Currently working on:** Metaverse VR Framework & LLM Fine-Tuning with LoRA  
 🌱 **Learning:** LangChain, TensorFlow, Real-Time 3D Simulation, Generative Agents  
 ⚡ **Passionate about:** Building Intelligent Systems, Open Source, Ethical AI  
-🤖 **Fun fact:** I debug with coffee and deploy with confidence ☕💻
 
 ---
 
