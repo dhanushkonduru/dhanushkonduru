@@ -235,12 +235,8 @@ Features:
 
 | Certification | Issuer | Badge |
 |--------------|--------|-------|
-| **[Machine Learning Specialization](https://github.com/dhanushkonduru/Certeficates)** | Andrew Ng (Coursera) | 🏅⭐⭐⭐⭐⭐ |
-| **[Supervised ML: Regression & Classification](https://github.com/dhanushkonduru/Certeficates)** | Coursera | 🏅⭐⭐⭐⭐⭐ |
-| **[Fundamentals of Deep Learning](https://github.com/dhanushkonduru/Certeficates)** | NVIDIA | 🏅⭐⭐⭐⭐ |
-| **[NLP Foundations](https://github.com/dhanushkonduru/Certeficates)** | Verified Certification | 🏅⭐⭐⭐⭐ |
-| **[Prompt Engineering for ChatGPT](https://github.com/dhanushkonduru/Certeficates)** | Vanderbilt University | 🏅⭐⭐⭐⭐ |
-| **[Linear Algebra for CS & ML](https://github.com/dhanushkonduru/Certeficates)** | Mathematics Foundation | 🏅⭐⭐⭐⭐ |
+| **[NLP Foundations](https://github.com/dhanushkonduru/Certeficates/tree/main/NLP%20Foundations)** | Verified Certification | 🏅⭐⭐⭐⭐ |
+| **[Linear Algebra for CS & ML](https://github.com/dhanushkonduru/Certeficates/tree/main/Linear%20Algebra)** | Mathematics Foundation | 🏅⭐⭐⭐⭐ |
 
 </td>
 <td width="50%">
@@ -249,14 +245,7 @@ Features:
 
 | Certification | Issuer | Badge |
 |--------------|--------|-------|
-| **[Google Cloud Digital Leader](https://github.com/dhanushkonduru/Certeficates)** | Google Cloud | 🏅⭐⭐⭐⭐ |
-| **[GitHub Foundations](https://github.com/dhanushkonduru/Certeficates)** | GitHub | 🏅⭐⭐⭐⭐ |
-
-### 🥇 **Competitions & Honors**
-
-| Achievement | Details | Badge |
-|------------|---------|-------|
-| **[Hackathon Gen-AI](https://github.com/dhanushkonduru/Certeficates)** | Certificate of Excellence | 🏆⭐⭐⭐⭐⭐ |
+| **[GitHub Foundations](https://github.com/dhanushkonduru/Certeficates/tree/main/GitHub%20Foundations)** | GitHub | 🏅⭐⭐⭐⭐ |
 
 </td>
 </tr>
@@ -264,8 +253,8 @@ Features:
 
 <div align="center">
 
-![Certification Count](https://img.shields.io/badge/Total_Certifications-9+-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Specializations](https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Cloud%20%7C%20Development-4ECDC4?style=for-the-badge)
+![Certification Count](https://img.shields.io/badge/Total_Certifications-3-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Specializations](https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Development-4ECDC4?style=for-the-badge)
 
 [![View All Certificates](https://img.shields.io/badge/📂_View_All_Certificates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkonduru/Certeficates)
 
