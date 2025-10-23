@@ -18,36 +18,11 @@
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td>
-
-**🎓 Education & Background**  
-Integrated M.Tech in Software Engineering @ VIT Vellore
-
-**🔬 Research Interests**  
-Exploring the intersection of AI, Agentic Systems, and Quantum Security
-
-**🚀 Current Projects**  
-• Metaverse VR Framework  
-• LLM Fine-Tuning with LoRA  
-• AI-Powered RAG Systems
-
-</td>
-<td>
-
-**📚 Currently Learning**  
-• LangChain for Agentic Workflows  
-• TensorFlow & Deep Learning  
-• Real-Time 3D Simulation  
-• Generative AI Agents
-
-**💡 Passionate About**  
-Building Intelligent Systems | Open Source | Ethical AI | Human-Centered Design
-
-</td>
-</tr>
-</table>
+🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**  
+🧪 **Exploring the intersection of AI, Agentic Systems, and Quantum Security**  
+🔭 **Currently working on:** Metaverse VR Framework & LLM Fine-Tuning with LoRA  
+🌱 **Learning:** LangChain, TensorFlow, Real-Time 3D Simulation, Generative Agents  
+⚡ **Passionate about:** Building Intelligent Systems, Open Source, Ethical AI
 
 ---
 
