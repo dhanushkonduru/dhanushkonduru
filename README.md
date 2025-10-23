@@ -253,8 +253,8 @@ Features:
 
 ### 💻 **Web Development & Frameworks**
 - **[Angular Development](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
-- **[Responsive Web Design](https://github.com/dhanushkonduru/Certeficates/tree/main/Responsive%20Web%20Design)**
-- **[JavaScript Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/JavaScript%20Algorithms)**
+- **[Responsive Web Design](https://github.com/dhanushkonduru/Certeficates/tree/main/Responsive%20Web%20Design)** - freeCodeCamp
+- **[JavaScript Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/JavaScript%20Algorithms)** - freeCodeCamp
 
 ### 💼 **Professional Experience**
 - **[Centific - Software Development Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Centific)**
@@ -271,7 +271,7 @@ Features:
 
 ![Total Certifications](https://img.shields.io/badge/Total_Certifications-7+-FF6B6B?style=flat-square&logo=google-scholar&logoColor=white)
 ![Specializations](https://img.shields.io/badge/AI%2FML-Deep_Learning-4ECDC4?style=flat-square)
-![Development](https://img.shields.io/badge/Web_Dev-Angular-DD0031?style=flat-square)
+![Development](https://img.shields.io/badge/Web_Dev-Angular%20%7C%20React-DD0031?style=flat-square)
 
 </div>
 
