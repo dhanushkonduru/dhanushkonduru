@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 
 🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**  
 🧪 **Exploring the intersection of AI, Agentic Systems, and Quantum Security**  
@@ -253,6 +253,8 @@ Features:
 
 ### 💻 **Web Development & Frameworks**
 - **[Angular Development](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
+- **[Responsive Web Design](https://github.com/dhanushkonduru/Certeficates/tree/main/Responsive%20Web%20Design)** - freeCodeCamp
+- **[JavaScript Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/JavaScript%20Algorithms)** - freeCodeCamp
 
 ### 💼 **Professional Experience**
 - **[Centific - Software Development Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Centific)**
