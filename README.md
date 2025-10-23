@@ -245,11 +245,16 @@ Features:
   <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Angular">
     <img src="https://img.shields.io/badge/Angular-View_Certificate-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Certificate" width="300"/>
   </a>
+</p>
+
+### 💼 **Internship Certificates**
+
+<p align="center">
   <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Centific">
-    <img src="https://img.shields.io/badge/Centific-View_Certificate-0066CC?style=for-the-badge&logo=certificate&logoColor=white" alt="Centific Certificate" width="300"/>
+    <img src="https://img.shields.io/badge/Centific_Internship-View_Certificate-0066CC?style=for-the-badge&logo=briefcase&logoColor=white" alt="Centific Internship" width="300"/>
   </a>
   <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Aapoon">
-    <img src="https://img.shields.io/badge/Aapoon-View_Certificate-00C7B7?style=for-the-badge&logo=certificate&logoColor=white" alt="Aapoon Certificate" width="300"/>
+    <img src="https://img.shields.io/badge/Aapoon_Internship-View_Certificate-00C7B7?style=for-the-badge&logo=briefcase&logoColor=white" alt="Aapoon Internship" width="300"/>
   </a>
 </p>
 
