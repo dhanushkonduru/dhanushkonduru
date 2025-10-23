@@ -223,65 +223,55 @@ Features:
 
 ---
 
-## 🏆 Certifications & Achievements  
+## 🏆 Certifications & Achievements
 
-<h3 align="center">Dhanush Konduru</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
-</p>
+### **Dhanush Konduru**
 
-### 🎓 **AI/ML & Deep Learning**
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
 
-<p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML">
-    <img src="https://img.shields.io/badge/Stanford_DeepLearning_AI_ML-View_Certificate-red?style=for-the-badge&logo=coursera&logoColor=white" alt="Stanford DeepLearning AI ML" width="300"/>
-  </a>
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Edufi%20Tech%20AIML">
-    <img src="https://img.shields.io/badge/Edufi_Tech_AIML-View_Certificate-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Edufi Tech AIML" width="300"/>
-  </a>
-  <a href="https://github.com/dhanushkonduru/Certeficates/blob/main/My%20Learning%20_%20NVIDIA.pdf">
-    <img src="https://img.shields.io/badge/NVIDIA_Deep_Learning-View_Certificate-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Deep Learning" width="300"/>
-  </a>
-</p>
+</div>
 
-### 💻 **Development & Technical**
+### 🎓 **Stanford & Deep Learning AI**
+- **[Machine Learning Specialization](https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML)**
+- **[Supervised Machine Learning](https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML)**
+- **[Advanced Learning Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML)**
+- **[Unsupervised Learning & Recommender Systems](https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML)**
 
-<p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Angular">
-    <img src="https://img.shields.io/badge/Angular-View_Certificate-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Certificate" width="300"/>
-  </a>
-</p>
+### 🧠 **NVIDIA Deep Learning Institute**
+- **[Fundamentals of Deep Learning](https://github.com/dhanushkonduru/Certeficates/blob/main/My%20Learning%20_%20NVIDIA.pdf)**
+- **[Neural Network Training](https://github.com/dhanushkonduru/Certeficates/blob/main/My%20Learning%20_%20NVIDIA.pdf)**
+- **[Computer Vision Applications](https://github.com/dhanushkonduru/Certeficates/blob/main/My%20Learning%20_%20NVIDIA.pdf)**
 
-### 💼 **Internship Certificates**
+### 🤖 **Edufi Tech AI/ML Program**
+- **[Artificial Intelligence & Machine Learning](https://github.com/dhanushkonduru/Certeficates/tree/main/Edufi%20Tech%20AIML)**
+- **[Data Science Fundamentals](https://github.com/dhanushkonduru/Certeficates/tree/main/Edufi%20Tech%20AIML)**
+- **[Python for AI/ML](https://github.com/dhanushkonduru/Certeficates/tree/main/Edufi%20Tech%20AIML)**
 
-<p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Centific">
-    <img src="https://img.shields.io/badge/Centific_Internship-View_Certificate-0066CC?style=for-the-badge&logo=briefcase&logoColor=white" alt="Centific Internship" width="300"/>
-  </a>
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Aapoon">
-    <img src="https://img.shields.io/badge/Aapoon_Internship-View_Certificate-00C7B7?style=for-the-badge&logo=briefcase&logoColor=white" alt="Aapoon Internship" width="300"/>
-  </a>
-</p>
+### 💻 **Web Development & Frameworks**
+- **[Angular Development](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
+- **[Modern Web Applications](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
+- **[Frontend Best Practices](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
+
+### 💼 **Professional Experience**
+- **[Centific - Software Development Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Centific)**
+- **[Aapoon - Technology Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Aapoon)**
 
 ### 🏅 **Competitions & Honors**
+- **[Hackathon Gen-AI - Certificate of Excellence](https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Gen-AI.pdf)** 🏆
 
-<p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Gen-AI.pdf">
-    <img src="https://img.shields.io/badge/🏆_Hackathon_Gen--AI-Certificate_of_Excellence-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathon Gen-AI" width="400"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Certifications-7-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Total Certifications"/>
-  <img src="https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Web%20Dev%20%7C%20Deep%20Learning-4ECDC4?style=for-the-badge" alt="Specializations"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates">
-    <img src="https://img.shields.io/badge/📂_View_All_Certificates-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Certificates"/>
-  </a>
-</p>
+[![View All Certificates](https://img.shields.io/badge/📂_View_All_Certificates_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkonduru/Certeficates)
+
+![Total Certifications](https://img.shields.io/badge/Total_Certifications-7+-FF6B6B?style=flat-square&logo=google-scholar&logoColor=white)
+![Specializations](https://img.shields.io/badge/AI%2FML-Deep_Learning-4ECDC4?style=flat-square)
+![Development](https://img.shields.io/badge/Web_Dev-Angular-DD0031?style=flat-square)
+
+</div>
 
 ---
 
