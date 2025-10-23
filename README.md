@@ -219,46 +219,34 @@ Features:
 
 ## 🏆 Certifications & Achievements  
 
-<div align="center">
+<h3 align="center">Dhanush Konduru</h3>
 
-### **Dhanush Konduru**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
+<p align="center">
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/GitHub%20Foundations">
+    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/GitHub%20Foundations/github-foundations.png" alt="GitHub Foundations Certificate" width="300"/>
+  </a>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/NLP%20Foundations">
+    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/NLP%20Foundations/nlp-foundations.png" alt="NLP Foundations Certificate" width="300"/>
+  </a>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Linear%20Algebra">
+    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/Linear%20Algebra/linear-algebra.png" alt="Linear Algebra Certificate" width="300"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Certifications-3-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Total Certifications"/>
+  <img src="https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Development-4ECDC4?style=for-the-badge" alt="Specializations"/>
+</p>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 **Machine Learning & AI**
-
-| Certification | Issuer | Badge |
-|--------------|--------|-------|
-| **[NLP Foundations](https://github.com/dhanushkonduru/Certeficates/tree/main/NLP%20Foundations)** | Verified Certification | 🏅⭐⭐⭐⭐ |
-| **[Linear Algebra for CS & ML](https://github.com/dhanushkonduru/Certeficates/tree/main/Linear%20Algebra)** | Mathematics Foundation | 🏅⭐⭐⭐⭐ |
-
-</td>
-<td width="50%">
-
-### ☁️ **Cloud & Development**
-
-| Certification | Issuer | Badge |
-|--------------|--------|-------|
-| **[GitHub Foundations](https://github.com/dhanushkonduru/Certeficates/tree/main/GitHub%20Foundations)** | GitHub | 🏅⭐⭐⭐⭐ |
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![Certification Count](https://img.shields.io/badge/Total_Certifications-3-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Specializations](https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Development-4ECDC4?style=for-the-badge)
-
-[![View All Certificates](https://img.shields.io/badge/📂_View_All_Certificates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkonduru/Certeficates)
-
-</div>
+<p align="center">
+  <a href="https://github.com/dhanushkonduru/Certeficates">
+    <img src="https://img.shields.io/badge/📂_View_All_Certificates-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Certificates"/>
+  </a>
+</p>
 
 ---
 
