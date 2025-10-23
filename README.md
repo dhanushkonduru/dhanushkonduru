@@ -225,21 +225,45 @@ Features:
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100">
 </p>
 
+### 🎓 **AI/ML & Deep Learning**
+
 <p align="center">
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/GitHub%20Foundations">
-    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/GitHub%20Foundations/github-foundations.png" alt="GitHub Foundations Certificate" width="300"/>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Stanford%20DeepLearning%20AI%20ML">
+    <img src="https://img.shields.io/badge/Stanford_DeepLearning_AI_ML-View_Certificate-red?style=for-the-badge&logo=coursera&logoColor=white" alt="Stanford DeepLearning AI ML" width="300"/>
   </a>
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/NLP%20Foundations">
-    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/NLP%20Foundations/nlp-foundations.png" alt="NLP Foundations Certificate" width="300"/>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Edufi%20Tech%20AIML">
+    <img src="https://img.shields.io/badge/Edufi_Tech_AIML-View_Certificate-blue?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Edufi Tech AIML" width="300"/>
   </a>
-  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Linear%20Algebra">
-    <img src="https://raw.githubusercontent.com/dhanushkonduru/Certeficates/main/Linear%20Algebra/linear-algebra.png" alt="Linear Algebra Certificate" width="300"/>
+  <a href="https://github.com/dhanushkonduru/Certeficates/blob/main/My%20Learning%20_%20NVIDIA.pdf">
+    <img src="https://img.shields.io/badge/NVIDIA_Deep_Learning-View_Certificate-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Deep Learning" width="300"/>
+  </a>
+</p>
+
+### 💻 **Development & Technical**
+
+<p align="center">
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Angular">
+    <img src="https://img.shields.io/badge/Angular-View_Certificate-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Certificate" width="300"/>
+  </a>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Centific">
+    <img src="https://img.shields.io/badge/Centific-View_Certificate-0066CC?style=for-the-badge&logo=certificate&logoColor=white" alt="Centific Certificate" width="300"/>
+  </a>
+  <a href="https://github.com/dhanushkonduru/Certeficates/tree/main/Aapoon">
+    <img src="https://img.shields.io/badge/Aapoon-View_Certificate-00C7B7?style=for-the-badge&logo=certificate&logoColor=white" alt="Aapoon Certificate" width="300"/>
+  </a>
+</p>
+
+### 🏅 **Competitions & Honors**
+
+<p align="center">
+  <a href="https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Gen-AI.pdf">
+    <img src="https://img.shields.io/badge/🏆_Hackathon_Gen--AI-Certificate_of_Excellence-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Hackathon Gen-AI" width="400"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Certifications-3-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Total Certifications"/>
-  <img src="https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Development-4ECDC4?style=for-the-badge" alt="Specializations"/>
+  <img src="https://img.shields.io/badge/Total_Certifications-7-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Total Certifications"/>
+  <img src="https://img.shields.io/badge/Specializations-AI%2FML%20%7C%20Web%20Dev%20%7C%20Deep%20Learning-4ECDC4?style=for-the-badge" alt="Specializations"/>
 </p>
 
 <p align="center">
