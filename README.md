@@ -34,29 +34,47 @@
 
 ## 🧠 About Me  
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+```javascript
+const dhanush = {
+    location: "🇮🇳 India",
+    education: "VIT Vellore",
+    currentFocus: [
+        "Agentic AI Systems",
+        "Metaverse VR Framework",
+        "LLM Fine-Tuning with LoRA"
+    ],
+    passions: [
+        "Building Intelligent Agents",
+        "Quantum Cryptography",
+        "Immersive 3D Experiences"
+    ],
+    funFact: "I dream in Python! 🐍"
+};
+```
+
+</td>
+<td width="50%">
 
 ### 🎯 **Current Mission**
-
-</div>
-
-- 🔬 Exploring the intersection of **LLMs, Agentic AI, and Quantum Security**
-- 🌌 Building **AI-driven Metaverse frameworks** and immersive systems
-- 🚀 Currently working on: **Metaverse VR Framework** & **LLM Fine-Tuning with LoRA**
-- 🌱 Mastering: **LangChain, TensorFlow, Real-Time 3D Simulation, Generative Agents**
-- ⚡ Dedicated to building **secure, scalable, and intelligent applications**
-- 🇮🇳 Based in **India** | 🎓 Studying at **VIT Vellore**
-
-<div align="center">
+- 🔬 Exploring **LLMs + Agentic AI + Quantum Security**
+- 🌌 Building **AI-driven Metaverse frameworks**
+- 🚀 Working on **Metaverse VR** & **LoRA Fine-Tuning**
+- 🌱 Mastering **LangChain, TensorFlow, 3D Simulation**
+- ⚡ Creating **secure, scalable, intelligent apps**
 
 ### 🏆 **Quick Stats**
+- 💡 **10+** AI/ML Projects
+- 🎓 **6+** Premium Certifications
+- 🌟 **Active** Open Source Contributor
+- 🔥 **Always** Learning & Building
 
-![](https://img.shields.io/badge/AI%2FML_Projects-10+-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Certifications-6+-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)
-![](https://img.shields.io/badge/Status-Always_Learning-4ECDC4?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![](https://img.shields.io/badge/Open_Source-Active-95E1D3?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
