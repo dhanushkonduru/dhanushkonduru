@@ -32,19 +32,63 @@
 
 ## 🧠 About Me  
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🎯 **Current Mission**
-🔬 Exploring **LLMs + Agentic AI + Quantum Security**  
-🌌 Building **AI-driven Metaverse frameworks**  
-🚀 Working on **Metaverse VR** & **LoRA Fine-Tuning**  
-🌱 Mastering **LangChain, TensorFlow, 3D Simulation**  
-⚡ Creating **secure, scalable, intelligent apps**
+### 👨‍💻 **Who I Am**
 
-### 🏆 **Quick Stats**
-💡 **10+** AI/ML Projects | 🎓 **6+** Premium Certifications | 🌟 **Active** Open Source Contributor | 🔥 **Always** Learning & Building
+- 🎓 **Integrated M.Tech Student** specializing in Software Engineering at VIT Vellore
+- 🤖 **AI/ML Engineer** with expertise in building intelligent, production-ready systems
+- 🧠 **Agentic AI Researcher** exploring autonomous agents and LLM-powered applications
+- 🌐 **Metaverse Innovator** crafting immersive VR experiences with cutting-edge technology
+- ⚛️ **Quantum Security Enthusiast** pioneering next-gen cryptographic solutions
 
-</div>
+</td>
+<td width="50%">
+
+### 🎯 **What I'm Building**
+
+- 🔬 **LLM Fine-Tuning Systems** using LoRA for efficient model adaptation
+- 🤝 **Agentic AI Frameworks** enabling autonomous decision-making agents
+- 🌌 **Metaverse VR Platforms** merging AI with immersive 3D environments
+- 🔐 **Quantum Cryptography Solutions** for ultra-secure data transmission
+- 📊 **RAG Pipelines** for intelligent document retrieval and analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 **My Expertise**
+
+- 🎯 **Computer Vision**: CNN-based object detection, image processing, autonomous systems
+- 🧠 **NLP & LLMs**: Prompt engineering, RAG, vector databases, LangChain
+- 🏗️ **Full-Stack Development**: Django, Flask, Node.js, REST APIs
+- ☁️ **Cloud Architecture**: AWS, Azure, Docker, scalable deployments
+- 📈 **Data Science**: Predictive modeling, statistical analysis, visualization
+
+</td>
+<td width="50%">
+
+### 🚀 **Current Focus**
+
+- 📚 Mastering **LangChain** for agentic workflows and orchestration
+- 🧪 Experimenting with **Generative AI** and multimodal models
+- 🎮 Developing **real-time 3D simulations** for Metaverse applications
+- 🔗 Contributing to **open-source AI/ML** projects
+- 💬 Mentoring aspiring developers in AI/ML domains
+
+### 🏆 **Achievements**
+
+- 💡 **10+ AI/ML Projects** deployed and documented
+- 🎓 **6+ Premium Certifications** from Coursera, NVIDIA, Google
+- 🏅 **Gen-AI Hackathon** - Certificate of Excellence
+- 🌟 Active contributor to the **AI/ML community**
+
+</td>
+</tr>
+</table>
 
 ---
 
