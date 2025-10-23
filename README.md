@@ -253,8 +253,8 @@ Features:
 
 ### 💻 **Web Development & Frameworks**
 - **[Angular Development](https://github.com/dhanushkonduru/Certeficates/tree/main/Angular)**
-- **[Responsive Web Design](https://github.com/dhanushkonduru/Certeficates/tree/main/Responsive%20Web%20Design)** - freeCodeCamp
-- **[JavaScript Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/JavaScript%20Algorithms)** - freeCodeCamp
+- **[Responsive Web Design](https://github.com/dhanushkonduru/Certeficates/tree/main/Responsive%20Web%20Design)**
+- **[JavaScript Algorithms](https://github.com/dhanushkonduru/Certeficates/tree/main/JavaScript%20Algorithms)**
 
 ### 💼 **Professional Experience**
 - **[Centific - Software Development Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Centific)**
