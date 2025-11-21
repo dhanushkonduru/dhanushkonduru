@@ -262,6 +262,7 @@ Features:
 
 ### 🏅 **Competitions & Honors**
 - **[Hackathon Gen-AI - Certificate of Excellence](https://github.com/dhanushkonduru/Certeficates/tree/main/Hackathons)** 🏆
+- **[Hackathon Digital Transformation - Certificate of securing Jury Special](https://github.com/dhanushkonduru/Certeficates/tree/main/Hackathons)** 🏆
 
 ---
 
