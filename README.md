@@ -261,8 +261,8 @@ Features:
 - **[Aapoon - Technology Internship](https://github.com/dhanushkonduru/Certeficates/tree/main/Aapoon)**
 
 ### 🏅 **Competitions & Honors**
-- **[Hackathon Gen-AI - Certificate of Excellence](https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Gen-AI.pdf)** 🏆
-- **[Hackathon Digital Transformation - Certificate of securing Jury Special](https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Digital%20Transformation.pdf)** 🏆
+- **[Hackathon Gen-AI - Certificate of Excellence](https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon)** 🏆
+- **[Hackathon Digital Transformation - Certificate of securing Jury Special](https://github.com/dhanushkonduru/Certeficates/blob/main/Hackathon%20Digital)** 🏆
 
 ---
 
