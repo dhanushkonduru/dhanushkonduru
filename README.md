@@ -125,8 +125,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/dhanushkonduru)
 
 ### 💌 Drop a Message!
-<div align="center">
-  **⭐ From [dhanushkonduru](https://github.com/dhanushkonduru) | Built with 💙 and ☕**
-</div>
-
----
+<p align="center">
+  <strong>⭐ From <a href="https://github.com/dhanushkonduru">dhanushkonduru</a> | Built with 💙</strong>
+</p>
