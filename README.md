@@ -124,7 +124,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushkonduru@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/dhanushkonduru)
 
-### 💌 Drop a Message!
+
 <p align="center">
   <strong>⭐ From <a href="https://github.com/dhanushkonduru">dhanushkonduru</a> | Built with 💙</strong>
 </p>
