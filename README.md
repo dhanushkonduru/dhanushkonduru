@@ -1,7 +1,11 @@
+<div align="center">
+
 # Hey there 👋, I'm Dhanush Konduru
 ### M.Tech Software Engineering Student | AI/ML & Metaverse Innovator | Building Intelligent Systems 🚀
 
 **Quick Navigation:** [About Me](#-about-me) • [Tech Stack](#-tech-stack--arsenal) • [GitHub Stats](#-github-analytics--statistics) • [Connect](#-lets-connect--collaborate)
+
+</div>
 
 ---
 
