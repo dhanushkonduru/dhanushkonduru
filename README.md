@@ -135,7 +135,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" />
 </div>
 
 <div align="center">
