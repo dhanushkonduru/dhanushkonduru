@@ -125,11 +125,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/dhanushkonduru)
 
 ### 💌 Drop a Message!
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descSize=15&descAlignY=88" width="100%"/>
+  **⭐ From [dhanushkonduru](https://github.com/dhanushkonduru) | Built with 💙 and ☕**
 </div>
 
 ---
-
-**⭐ From [dhanushkonduru](https://github.com/dhanushkonduru) | Built with 💙 and ☕**
