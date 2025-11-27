@@ -119,64 +119,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 
----
-
-
-## 🌐 Metaverse Vision & Future Roadmap  
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🌍 **Immersive Worlds**
-Building next-gen **Metaverse VR Systems** where reality meets imagination
-
-<img src="https://img.shields.io/badge/Status-Research_Phase-FFD60A?style=for-the-badge" />
-
-</td>
-<td width="33%" align="center">
-
-### 🤖 **Agentic AI**
-Creating **intelligent digital agents** that seamlessly interact with humans
-
-<img src="https://img.shields.io/badge/Status-In_Development-00F5FF?style=for-the-badge" />
-
-</td>
-<td width="33%" align="center">
-
-### ⚛️ **Quantum Security**
-Implementing **quantum-secure architecture** for ultra-safe systems
-
-<img src="https://img.shields.io/badge/Status-Experimental-FF006E?style=for-the-badge" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 **Core Research Areas**
-
-```mermaid
-graph LR
-    A[🧠 LLMs] --> D[🌐 Metaverse]
-    B[🤖 Agentic AI] --> D
-    C[⚛️ Quantum Crypto] --> D
-    D --> E[🚀 Future of Computing]
-```
-
-**🔮 Vision:** *Pioneering the convergence of AI, VR, and Quantum Computing to create intelligent, secure, and immersive digital universes*
-
-</div>
-
----
-
 ## 📊 GitHub Analytics & Statistics  
 
 <div align="center">
