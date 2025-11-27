@@ -122,11 +122,11 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=FF6B6B&currStreakLabel=00FFFF" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushkonduru&theme=radical" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkonduru&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
