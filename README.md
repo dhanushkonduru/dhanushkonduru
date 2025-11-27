@@ -28,12 +28,6 @@
 
 ## 🛠 Tech Stack & Arsenal  
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</div>
-
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
@@ -115,31 +109,25 @@
 
 </details>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
+---
 
 ## 📊 GitHub Analytics & Statistics  
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+### 📈 My Coding Journey
 
-### 📈 **My Coding Journey**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
 
-</div>
+<br><br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushkonduru&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushkonduru&theme=radical&hide_border=true" />
-</div>
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushkonduru&bg_color=0D1117&color=00FFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushkonduru&theme=radical" alt="Contribution Graph" />
+
 </div>
 
 <div align="center">
@@ -166,9 +154,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-### 💬 **I'm Always Open To:**
+### 💬 I'm Always Open To:
 🚀 Innovative Project Collaborations | 🧠 AI/ML Research Discussions | 🌐 Open Source Contributions | 💡 Tech Talks & Mentorship
 
 <br>
@@ -180,7 +166,7 @@
 
 <br>
 
-### 💌 **Drop a Message!**
+### 💌 Drop a Message!
 
 <a href="mailto:dhanushkonduru@gmail.com">
 <img src="https://img.shields.io/badge/📧_dhanushkonduru@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -189,3 +175,9 @@
 </div>
 
 ---
+
+<div align="center">
+
+**⭐ From [dhanushkonduru](https://github.com/dhanushkonduru) | Built with 💙 and ☕**
+
+</div>
