@@ -86,17 +86,20 @@
 
 ### 📈 My Coding Journey
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkonduru&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
-<p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhanushkonduru&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanushkonduru&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ### 📈 Contribution Metrics
 
