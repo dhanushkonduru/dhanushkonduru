@@ -88,18 +88,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=dhanushkonduru&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhanushkonduru&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170"/>
 </p>
 
+<!-- Trophies section commented out as it is currently returning 404 (No trophies found)
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhanushkonduru&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </p>
+-->
 
 ### 📈 Contribution Metrics
 
