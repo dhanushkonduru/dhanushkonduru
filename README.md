@@ -86,14 +86,19 @@
 
 ### 📈 My Coding Journey
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhanushkonduru&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhanushkonduru&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhanushkonduru&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhanushkonduru&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+    </td>
+  </tr>
+</table>
 
 
 ### 🏆 GitHub Trophies
