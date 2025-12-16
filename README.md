@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 ## 🧠 About Me
 
 🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**  
