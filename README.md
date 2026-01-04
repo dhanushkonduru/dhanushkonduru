@@ -1,7 +1,9 @@
 <div align="center">
 
-# Hey there 👋, I'm Dhanush Konduru<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+focused+on+LLM+systems+and+RAG+pipelines;Applied+Machine+Learning" />
+# Hey there 👋, I'm Dhanush Konduru
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Software+Engineer+focused+on+LLM+systems+and+RAG+pipelines;Applied+Machine+Learning" />
 </p>
 
 
