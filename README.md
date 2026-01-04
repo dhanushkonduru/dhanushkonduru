@@ -1,7 +1,9 @@
 <div align="center">
 
-# Hey there 👋, I'm Dhanush Konduru
-### M.Tech Software Engineering Student | AI/ML & Metaverse Innovator | Building Intelligent Systems 🚀
+# Hey there 👋, I'm Dhanush Konduru<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer+focused+on+LLM+systems+and+RAG+pipelines;Applied+Machine+Learning" />
+</p>
+
 
 **Quick Navigation:** [About Me](#-about-me) • [Tech Stack](#-tech-stack--arsenal) • [GitHub Stats](#-github-analytics--statistics) • [Connect](#-lets-connect--collaborate)    
 
