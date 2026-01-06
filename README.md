@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C1C3&center=true&vCenter=true&width=850&lines=Software+Engineer+focused+on+LLM+systems+and+RAG+pipelines;Applied+Machine+Learning" />
 </p>
 
-
 **Quick Navigation:** [About Me](#-about-me) • [Tech Stack](#-tech-stack--arsenal) • [GitHub Stats](#-github-analytics--statistics) • [Connect](#-lets-connect--collaborate)    
 
 </div>
