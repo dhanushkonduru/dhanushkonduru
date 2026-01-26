@@ -11,7 +11,7 @@
 </div>
  
 ---
-## 🧠 About Me
+## 🧠 About Me 
 
 🎓 **Integrated M.Tech Software Engineering @ VIT Vellore**  
 🧪 **Exploring the intersection of AI, Agentic Systems, and Quantum Security**  
